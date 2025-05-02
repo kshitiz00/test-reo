@@ -8,3 +8,10 @@ body {
   cursor: pointer;
   padding-left: 5px;
 }
+
+.bottomLink {
+  color: white;
+  text-decoration: none;
+  cursor: pointer;
+  padding-left: 5px;
+}
